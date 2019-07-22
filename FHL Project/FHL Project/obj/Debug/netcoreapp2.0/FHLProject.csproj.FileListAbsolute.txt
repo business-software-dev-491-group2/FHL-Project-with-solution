@@ -9,3 +9,14 @@ C:\Users\rivkir\source\repos\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHL
 C:\Users\rivkir\source\repos\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.pdb
 C:\Users\rivkir\source\repos\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.dll
 C:\Users\rivkir\source\repos\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.pdb
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.deps.json
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.runtimeconfig.json
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.runtimeconfig.dev.json
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.dll
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.pdb
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.csprojAssemblyReference.cache
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.csproj.CoreCompileInputs.cache
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.AssemblyInfoInputs.cache
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.AssemblyInfo.cs
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.dll
+C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.pdb

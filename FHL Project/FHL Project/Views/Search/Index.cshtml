@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Search";
+}
+
+<h2> Search</h2>
+
+<form asp-contoller="Search" asp-action="Index">
+    <p>
+        Title: <input type="text" name="SearchString" />
+        <input type="submit" value="Filter"/>
+    </p>
+</form>
+
+<p>This View will seach for the CDs</p>

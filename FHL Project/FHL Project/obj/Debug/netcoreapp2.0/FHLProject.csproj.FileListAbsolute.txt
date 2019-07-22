@@ -20,3 +20,14 @@ C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\obj\Debug\netco
 C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.AssemblyInfo.cs
 C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.dll
 C:\Users\rivkir\source\repos\FHL Project\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.pdb
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.csprojAssemblyReference.cache
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.AssemblyInfoInputs.cache
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.AssemblyInfo.cs
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.dll
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\obj\Debug\netcoreapp2.0\FHLProject.pdb
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.deps.json
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.runtimeconfig.json
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.runtimeconfig.dev.json
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.dll
+D:\Documents\GitHub\FHL-Project-with-solution\FHL Project\FHL Project\bin\Debug\netcoreapp2.0\FHLProject.pdb

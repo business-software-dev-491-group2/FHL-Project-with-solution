@@ -1,0 +1,65 @@
+﻿@model IEnumerable<FHLProject.Models.CDs>
+<!--link to AddEmployee view
+<p> <a asp-controller="Employee" asp-action="AddEmployee">Add Employee</a></p>-->
+
+@{
+    ViewData["Title"] = "Search";
+}
+
+<h2> Search</h2>
+
+<!--form asp-contoller="CDs" asp-action="Search">
+    <p>
+        <!--Create Textbox called Searchstring-->
+<!--Title: <input type="text" name="SearchString" />-->
+<!--Create Button called filter-->
+<!--input type="submit" value="Filter" />
+    </p>
+</form>-->
+
+<p>
+    @using (Html.BeginForm("Search", "CDs", FormMethod.Get))
+    {
+        <b>Search By</b>
+        <!--Radio Button to select which field to search-->
+        @Html.RadioButton("searchby", "Title", true)<text>Title</text>
+        @Html.RadioButton("searchby", "Place")<text>Place</text>
+        @Html.RadioButton("searchby", "Surname")<text>Surname</text><br />
+        <!--Text box-->
+        @Html.TextBox("search")
+        <input type="submit" value="Search" />
+    }
+
+</p>
+@{
+    //if there are no CDS passed, return message
+    if (Model.Count() < 1)
+    { <p>No CDs match criteria</p>}
+    //else display CDs in table
+    else
+    {
+        <h3>Search Results</h3>
+        <table border="1">
+            <tr>
+                <th>CD Number</th>
+                <th>CD Title</th>
+                <th>Place</th>
+                <th>Surname</th>
+            </tr>
+            @{
+                //load each object in the list into the table rows
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.CD_Number</td>
+                        <td>@item.CD_Titles</td>
+                        <td>@item.CD_Place</td>
+                        <td>@item.CD_Surname</td>
+                    </tr>
+                }
+            }
+        </table>
+    }
+}
+
+<p>This View will seach for the CDs</p>

@@ -32,7 +32,7 @@ namespace FHLProject
             app.UseMvc(
                  routes =>
                  {
-                     routes.MapRoute(name: "default", template: "{controller=Search}/{action=Index}/{id?}"); //Might need to change 'Search' to 'Home' - Michael
+                     routes.MapRoute(name: "default", template: "{controller=CDs}/{action=Search}/{id?}"); //Might need to change 'Search' to 'Home' - Michael
                  }
                  );
         }
